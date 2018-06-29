@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MisCiudades</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="error_email">El correo electrónico introducido no es válido</string>
+    <string name="error_login">El usuario introducido no existe o la contraseña es incorrecta</string>
+    <string name="campo_requerido">Campo requerido</string>
+    <string name="mis_ciudades">Mis Ciudades</string>
+    <string name="buscar_ciudades">Buscar Ciudades</string>
+    <string name="sobre_nosotros">Sobre nosotros</string>
+    <string name="ejemplo_nombre">Murcia</string>
+    <string name="ejemplo_pais">España</string>
+    <string name="descripcion_offline">Offline</string>
+    <string name="comprobar_conexion">Para recuperar imágenes de una ciudad se necesita tener conexión a Internet. Pulsa en la nube para intentarlo de nuevo</string>
+    <string name="sobre_nosotros_texto">Intelia es una empresa con sólida experiencia en el sector de las tecnologías de la información y la comunicación (TIC).\n\nDisponemos de un <b>software en la nube</b> con diferentes soluciones integradas entre sí, orientadas a los departamentos de ventas y marketing de las empresas. El objetivo se centra en <b>mejorar los procesos de venta de nuestros clientes</b> a través del uso de las nuevas tecnologías, así como <b>ofrecer información de utilidad</b> para las empresas. Como resultado, la <b>toma de decisiones de las compañías mejora considerablemente</b> al posicionar la información como un activo estratégico.\n\nNuestro software en la nube representa el <b>conjunto definitivo de soluciones tecnológicas aplicadas a la venta y al marketing de tu empresa</b>, sincronizando toda la información en tiempo real, lo que te permitirá tener un <b>mayor control de tu negocio</b>, y <b>tomar las decisiones acertadas.</b>\n\nAntes de cada proyecto realizamos una consultoría tecnológica para conocer las necesidades de nuestro cliente y descubrir la mejor manera de satisfacerlas con un alto grado de innovación mediante nuestras herramientas de marketing tecnológico.</string>
+</resources>
